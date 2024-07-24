@@ -1,4 +1,6 @@
-Olá! Eu sou o Jean Oliveira, um desenvolvedor [ou outro título relevante] com experiência em [tecnologias/áreas de especialização]. Abaixo estão alguns dos meus projetos e links úteis que destacam meu trabalho.
+Sou um profissional apaixonado por transformar dados em insights acionáveis. Com experiência em análise e visualização de dados, ferramentas como Power BI, linguagens de programação Python e R, e tenho experiência em manipulação de dados utilizando SQL.
+
+Atualmente, estou focado no aprimoramento contínuo dos meus conhecimentos em estatística e machine learning, buscando sempre integrar as melhores práticas em ciência de dados nos projetos em que estou envolvido.
 
 ## 🚀 Projetos
 
