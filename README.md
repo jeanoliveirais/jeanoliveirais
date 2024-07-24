@@ -1,6 +1,6 @@
 Olá! Eu sou o Jean Oliveira, um desenvolvedor [ou outro título relevante] com experiência em [tecnologias/áreas de especialização]. Abaixo estão alguns dos meus projetos e links úteis que destacam meu trabalho.
 
-##🚀 Projetos
+## 🚀 Projetos
 
 ### [SQL](https://github.com/jeanoliveirais/cursosql)
 SQL
