@@ -19,7 +19,7 @@ Figma
 ## Links Úteis
 
 - [Meu LinkedIn](https://www.linkedin.com/in/jeanoliveirasi/) - Conecte-se comigo no LinkedIn.
-- [Datanauts](https://datanauts.com.br) - Leia meus artigos e posts técnicos.
+- [Datanauts](https://datanauts.com.br) - Leia meus artigos e posts.
 - [Entre em Contato](mailto:seu-email@example.com) - Envie-me um e-mail.
 
 ## Sobre Mim
