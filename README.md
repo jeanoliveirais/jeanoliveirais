@@ -2,7 +2,7 @@ Olá! Eu sou o Jean Oliveira, um desenvolvedor [ou outro título relevante] com 
 
 ## Projetos
 
-### [Projeto 1](https://link-para-seu-projeto-1.com)
+### [SQL](https://github.com/jeanoliveirais/cursosql)
 Descrição breve do Projeto 1. Neste projeto, eu [descreva brevemente o que você fez, as tecnologias usadas e qualquer resultado significativo].
 
 ### [Projeto 2](https://link-para-seu-projeto-2.com)
