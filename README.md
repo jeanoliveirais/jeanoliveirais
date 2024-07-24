@@ -8,8 +8,8 @@ SQL
 ### [Python](https://link-para-seu-projeto-2.com)
 Python
 
-### [Estatítica](https://link-para-seu-projeto-2.com)
-Estatítica
+### [Estatística](https://link-para-seu-projeto-2.com)
+Estatística
 
 ### [Dashboards Figma](https://www.figma.com/@jeanoliveirads)
 Figma
