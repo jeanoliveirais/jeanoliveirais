@@ -3,19 +3,21 @@ Olá! Eu sou o Jean Oliveira, um desenvolvedor [ou outro título relevante] com 
 ## Projetos
 
 ### [SQL](https://github.com/jeanoliveirais/cursosql)
-Descrição breve do Projeto 1. Neste projeto, eu [descreva brevemente o que você fez, as tecnologias usadas e qualquer resultado significativo].
+SQL
 
-### [Projeto 2](https://link-para-seu-projeto-2.com)
-Descrição breve do Projeto 2. Aqui, eu [descreva brevemente o que você fez, as tecnologias usadas e quaisquer realizações ou impactos].
+### [Python](https://link-para-seu-projeto-2.com)
+Python
 
-### [Projeto 3](https://link-para-seu-projeto-3.com)
-Descrição breve do Projeto 3. Este projeto envolveu [descreva brevemente as tarefas, habilidades ou tecnologias envolvidas].
+### [Estatítica](https://link-para-seu-projeto-2.com)
+Estatítica
+
+### [Dashboards Figma](https://www.figma.com/@jeanoliveirads)
+Figma
 
 ## Links Úteis
 
-- [Meu GitHub](https://github.com/seu-perfil) - Explore todos os meus repositórios.
-- [Meu LinkedIn](https://linkedin.com/in/seu-perfil) - Conecte-se comigo no LinkedIn.
-- [Meu Blog](https://seublog.com) - Leia meus artigos e posts técnicos.
+- [Meu LinkedIn](https://www.linkedin.com/in/jeanoliveirasi/) - Conecte-se comigo no LinkedIn.
+- [Datanauts](https://datanauts.com.br) - Leia meus artigos e posts técnicos.
 - [Entre em Contato](mailto:seu-email@example.com) - Envie-me um e-mail.
 
 ## Sobre Mim
