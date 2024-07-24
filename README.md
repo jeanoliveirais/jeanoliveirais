@@ -22,11 +22,11 @@ Figma
 
 ## Sobre Mim
 
-Com [X anos] de experiência em [sua área de especialização], tenho trabalhado em diversos projetos que envolvem [tecnologias específicas, métodos ou áreas de conhecimento]. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+
 
 ## Habilidades
 
-- **Linguagens de Programação:** Python, SQL, JavaScript, etc.
+- **Linguagens de Programação:** Python, SQL,  R
 - **Tecnologias:** Django, React, Pandas, etc.
 - **Ferramentas:** Git, Docker, Jenkins, etc.
 
@@ -34,7 +34,4 @@ Com [X anos] de experiência em [sua área de especialização], tenho trabalhad
 
 Para mais informações ou para discutir oportunidades de colaboração, não hesite em [entrar em contato](mailto:seu-email@example.com).
 
----
-
-*Última atualização: [Data de Atualização]*
 
